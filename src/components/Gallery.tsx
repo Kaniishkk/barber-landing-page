@@ -38,7 +38,7 @@ const Gallery: React.FC = () => {
     },
     {
       id: 5,
-      image: "https://www.pexels.com/photo/person-washing-woman-s-hair-3993449/",
+      image: "https://images.pexels.com/photos/1805600/pexels-photo-1805600.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
       category: "Styling",
       title: "Textured Crop"
     },
