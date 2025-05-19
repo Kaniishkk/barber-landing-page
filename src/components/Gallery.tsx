@@ -36,17 +36,17 @@ const Gallery: React.FC = () => {
       category: "Haircut",
       title: "Classic Cut"
     },
-    // {
-    //   id: 5,
-    //   image: "https://images.pexels.com/photos/1805600/pexels-photo-1805600.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-    //   category: "Styling",
-    //   title: "Textured Crop"
-    // },
     {
       id: 6,
       image: "https://images.pexels.com/photos/3998424/pexels-photo-3998424.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
       category: "Beard",
       title: "Full Beard Shape"
+    },
+    {
+      id: 5,
+      image: "https://images.pexels.com/photos/1805600/pexels-photo-1805600.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      category: "Styling",
+      title: "Textured Crop"
     },
   ];
 
