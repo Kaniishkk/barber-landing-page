@@ -44,7 +44,7 @@ const Gallery: React.FC = () => {
     },
     {
       id: 6,
-      image: "https://images.pexels.com/photos/1805405/pexels-photo-1805405.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      image: "https://images.pexels.com/photos/3998424/pexels-photo-3998424.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
       category: "Beard",
       title: "Full Beard Shape"
     },
