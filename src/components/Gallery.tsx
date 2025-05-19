@@ -32,7 +32,7 @@ const Gallery: React.FC = () => {
     },
     {
       id: 4,
-      image: "https://images.pexels.com/photos/2989169/pexels-photo-2989169.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      image: "https://images.app.goo.gl/JjPDLKD4eUP2Sw8h8",
       category: "Haircut",
       title: "Classic Cut"
     },
